@@ -1,82 +1,80 @@
-[Arts & Entertainment](#arts-&-entertainment)
-[Autos & Vehicles](#autos-&-vehicles)
-[Beauty & Fitness](#beauty-&-fitness)
-[Books & Literature](#books-&-literature)
-[Business & Industrial](#business-&-industrial)
-[Computers & Electronics](#computers-&-electronics)
+[Arts & Entertainment](#arts--entertainment)
+[Autos & Vehicles](#autos--vehicles)
+[Beauty & Fitness](#beauty--fitness)
+[Books & Literature](#books--literature)
+[Business & Industrial](#business--industrial)
+[Computers & Electronics](#computers--electronics)
 [Finance](#finance)
-[Food & Drink](#food-&-drink)
+[Food & Drink](#food--drink)
 [Games](#games)
 [Health](#health)
-[Hobbies & Leisure](#hobbies-&-leisure)
-[Home & Garden](#home-&-garden)
-[Internet & Telecom](#internet-&-telecom)
-[Jobs & Education](#jobs-&-education)
-[Law & Government](#law-&-government)
+[Hobbies & Leisure](#hobbies--leisure)
+[Home & Garden](#home--garden)
+[Internet & Telecom](#internet--telecom)
+[Jobs & Education](#jobs--education)
+[Law & Government](#law--government)
 [News](#news)
 [Online Communities](#online-communities)
-[People & Society](#people-&-society)
-[Pets & Animals](#pets-&-animals)
+[People & Society](#people--society)
+[Pets & Animals](#pets--animals)
 [Real Estate](#real-estate)
 [Reference](#reference)
 [Science](#science)
 [Shopping](#shopping)
 [Sports](#sports)
-[Travel & Transportation](#travel-&-transportation)
+[Travel & Transportation](#travel--transportation)
 [World Localities](#world-localities)
 
-#Arts & Entertainment
+## Arts & Entertainment
 ![arts_and_entertainment.png](arts_and_entertainment.png)
 
-#Autos & Vehicles
-#Beauty & Fitness
-#Books & Literature
-#Business & Industrial
-#Computers & Electronics
-#Finance
-#Food & Drink
-#Games
-#Health
-#Hobbies & Leisure
-#Home & Garden
-#Internet & Telecom
-#Jobs & Education
-#Law & Government
-#News
-#Online Communities
-#People & Society
-#Pets & Animals
-#Real Estate
-#Reference
-#Science
-#Shopping
-#Sports
-#Travel & Transportation
-#World Localities
-
-arts_and_entertainment.png
-autos_and_vehicles.png
-beauty_and_fitness.png
-books_and_literature.png
-business_and_industrial.png
-computers_and_electronics.png
-finance.png
-food_and_drink.png
-games.png
-health.png
-hobbies_and_leisure.png
-home_and_garden.png
-internet_and_telecom.png
-jobs_and_education.png
-law_and_government.png
-news.png
-online_communities.png
-people_and_society.png
-pets_and_animals.png
-real_estate.png
-reference.png
-science.png
-shopping.png
-sports.png
-travel_and_transportation.png
-world_localities.png
+## Autos & Vehicles
+![autos_and_vehicles.png](autos_and_vehicles.png)
+## Beauty & Fitness
+![beauty_and_fitness.png](beauty_and_fitness.png)
+## Books & Literature
+![books_and_literature.png](books_and_literature.png)
+## Business & Industrial
+![business_and_industrial.png]
+## Computers & Electronics
+![computers_and_electronics.png]
+## Finance
+![finance.png](finance.png)
+## Food & Drink
+![food_and_drink.png](food_and_drink.png)
+## Games
+![games.png](games.png)
+## Health
+![health.png](health.png)
+## Hobbies & Leisure
+![hobbies_and_leisure.png](hobbies_and_leisure.png)
+## Home & Garden
+![home_and_garden.png](home_and_garden.png)
+## Internet & Telecom
+![internet_and_telecom.png](internet_and_telecom.png)
+## Jobs & Education
+![jobs_and_education.png](jobs_and_education.png)
+## Law & Government
+![law_and_government.png](law_and_government.png)
+## News
+![news.png](news.png)
+## Online Communities
+![online_communities.png](online_communities.png)
+## People & Society
+![people_and_society.png](people_and_society.png)
+## Pets & Animals
+![pets_and_animals.png](pets_and_animals.png)
+## Real Estate
+![real_estate.png](real_estate.png)
+## Reference
+![reference.png](reference.png)
+## Science
+![science.png](science.png)
+## Shopping
+![shopping.png](shopping.png)
+## Sports
+![sports.png](sports.png)
+## Travel & Transportation
+![travel_and_transportation.png](travel_and_transportation.png)
+## World Localities
+![world_localities.png](world_localities.png)
