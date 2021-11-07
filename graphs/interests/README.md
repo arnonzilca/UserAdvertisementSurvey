@@ -39,10 +39,10 @@
 ![books_and_literature.png](books_and_literature.png)
 ---
 ## Business & Industrial
-![business_and_industrial.png]
+![business_and_industrial.png](business_and_industrial.png)
 ---
 ## Computers & Electronics
-![computers_and_electronics.png]
+![computers_and_electronics.png](computers_and_electronics.png)
 ---
 ## Finance
 ![finance.png](finance.png)
