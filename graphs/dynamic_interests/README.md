@@ -1,4 +1,4 @@
-# Interests
+# Dynamic Interests
 * [Arts & Entertainment](#arts--entertainment)
 * [Autos & Vehicles](#autos--vehicles)
 * [Beauty & Fitness](#beauty--fitness)
