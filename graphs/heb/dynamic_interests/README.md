@@ -1,4 +1,4 @@
-# Interests
+# תחומי עניין זמניים או עתידיים (לטווח קצר)
 * [אמנות ובידור](#arts--entertainment)
 * [כלי רכב](#autos--vehicles)
 * [יופי וכושר גופני](#beauty--fitness)

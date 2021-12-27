@@ -1,4 +1,4 @@
-# Interests
+# תחומי עניין
 * [אמנות ובידור](#arts--entertainment)
 * [כלי רכב](#autos--vehicles)
 * [יופי וכושר גופני](#beauty--fitness)
