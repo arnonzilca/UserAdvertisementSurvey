@@ -1,4 +1,4 @@
-# תחומי עניין
+# Interests
 * [אמנות ובידור](#arts--entertainment)
 * [כלי רכב](#autos--vehicles)
 * [יופי וכושר גופני](#beauty--fitness)
@@ -26,81 +26,81 @@
 * [נסיעות ותחבורה](#travel--transportation)
 * [אזורים ברחבי העולם](#world-localities)
 ---
-## אמנות ובידור
+## Arts & Entertainment
 ![arts_and_entertainment.png](arts_and_entertainment.png)
 ---
-## כלי רכב
+## Autos & Vehicles
 ![autos_and_vehicles.png](autos_and_vehicles.png)
 ---
-## יופי וכושר גופני
+## Beauty & Fitness
 ![beauty_and_fitness.png](beauty_and_fitness.png)
 ---
-## ספרים וספרות
+## Books & Literature
 ![books_and_literature.png](books_and_literature.png)
 ---
-## עסקיים ותעשייתיים
+## Business & Industrial
 ![business_and_industrial.png](business_and_industrial.png)
 ---
-## מחשבים ואלקטרוניקה
+## Computers & Electronics
 ![computers_and_electronics.png](computers_and_electronics.png)
 ---
-## פיננסים
+## Finance
 ![finance.png](finance.png)
 ---
-## אוכל ומשקאות
+## Food & Drink
 ![food_and_drink.png](food_and_drink.png)
 ---
-## משחקים
+## Games
 ![games.png](games.png)
 ---
-## בריאות
+## Health
 ![health.png](health.png)
 ---
-## תחביבים ופנאי
+## Hobbies & Leisure
 ![hobbies_and_leisure.png](hobbies_and_leisure.png)
 ---
-## לבית ולגינה
+## Home & Garden
 ![home_and_garden.png](home_and_garden.png)
 ---
-## אינטרנט וטלקום
+## Internet & Telecom
 ![internet_and_telecom.png](internet_and_telecom.png)
 ---
-## תעסוקה וחינוך
+## Jobs & Education
 ![jobs_and_education.png](jobs_and_education.png)
 ---
-## חוק וממשל
+## Law & Government
 ![law_and_government.png](law_and_government.png)
 ---
-## חדשות
+## News
 ![news.png](news.png)
 ---
-## קהילות מקוונות (אונליין)
+## Online Communities
 ![online_communities.png](online_communities.png)
 ---
-## אנשים וחברה
+## People & Society
 ![people_and_society.png](people_and_society.png)
 ---
-## חיות מחמד ובעלי חיים
+## Pets & Animals
 ![pets_and_animals.png](pets_and_animals.png)
 ---
-## נדל"ן
+## Real Estate
 ![real_estate.png](real_estate.png)
 ---
-## עיון (בבליוגרפיה, מדריכים, היסטוריה, מוזיאונים)
+## Reference
 ![reference.png](reference.png)
 ---
-## מדע
+## Science
 ![science.png](science.png)
 ---
-## קניות
+## Shopping
 ![shopping.png](shopping.png)
 ---
-## ספורט
+## Sports
 ![sports.png](sports.png)
 ---
-## נסיעות ותחבורה
+## Travel & Transportation
 ![travel_and_transportation.png](travel_and_transportation.png)
 ---
-## אזורים ברחבי העולם
+## World Localities
 ![world_localities.png](world_localities.png)
 ---
